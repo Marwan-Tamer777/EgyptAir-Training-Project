@@ -56,7 +56,9 @@ section {
     min-height: 80vh;
 }
 
-
+#cover_img{
+    width: 100%;
+}
 /* ---- Module Rules ---- */
 
 /* Navigation Styles*/
